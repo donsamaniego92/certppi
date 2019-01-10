@@ -1,0 +1,19 @@
+{
+  "name": "certppi",
+  "version": "1.0.0",
+  "description": "ppi cert",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/donsamaniego92/certppi.git"
+  },
+  "author": "Alex Samaniego",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/donsamaniego92/certppi/issues"
+  },
+  "homepage": "https://github.com/donsamaniego92/certppi#readme"
+}
